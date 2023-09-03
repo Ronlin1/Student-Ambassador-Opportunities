@@ -5,7 +5,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 - [INT. SPACE STATION](https://www.issnationallab.org/stem/ambassadors/)
 - [UBER](https://docs.google.com/forms/d/e/1FAIpQLSc-_LYmkhHZrLULdvyxhmuOdgG0WuiI-hJBbpnfvWmgpoztFQ/viewform?c=0&w=1)
 - [NASA](https://www.nasa.gov/stem/highereducation/index.html)
-- [STACK OVERFLOW](https://meta.stackexchange.com/questions/381614/announcing-the-stack-overflow-student-ambassador-program)
+- [STACK OVERFLOW](https://students.stackoverflow.co/)
 - [HUAWEI](https://developer.huawei.com/consumer/en/programs/hsd/)
 - [SAMSUNG](https://collegeambassadorprogram.com/)
 - [HP](https://jobs.hp.com/students-graduates/)
