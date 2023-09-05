@@ -36,7 +36,7 @@ Feel free to explore these ambassador programs and their respective opportunitie
 --Adding Developer Circles (Meta)...
 --cern opportunities
 
-
+AWS STARTUPS: https://aws.amazon.com/startups/accelerators/build/apply
 OTHER
 NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 
