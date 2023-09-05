@@ -19,7 +19,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 - [AWS EDUCATE](https://pages.awscloud.com/AWSActivateStudentAmbassador.html)
 - [APPLE COLLEGE ADVISOR](https://www.apple.com/careers/us/students/advisor_faq.html)
 - [HACKEREARTH](https://www.hackerearth.com/campus-ambassador-program/)
-- [INTEL](https://www.hackerearth.com/campus-ambassador-program/)
+- [INTEL](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html)
 - [MICROSOFT](https://learn.microsoft.com/en-us/training/student-hub/become-a-student-ambassador)
 - [GITHUB](https://githubcampus.expert/)
 - [GOOGLE](https://developers.google.com/community/gdsc/leads)
