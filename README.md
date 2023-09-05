@@ -15,7 +15,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 - [CYPRESS](https://www.cypress.io/ambassadors/)
 - [GEEKS FOR GEEKS](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 - [MAJOR LH](https://mlh.io/)
-- [TWITTER/ALX](https://developer.twitter.com/en/community/student-ambassadors)
+- [TWITTER/X](https://developer.twitter.com/en/community/student-ambassadors)
 - [AWS EDUCATE](https://pages.awscloud.com/AWSActivateStudentAmbassador.html)
 - [APPLE COLLEGE ADVISOR](https://www.apple.com/careers/us/students/advisor_faq.html)
 - [HACKEREARTH](https://www.hackerearth.com/campus-ambassador-program/)
