@@ -34,9 +34,14 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 Feel free to explore these ambassador programs and their respective opportunities!
 
 --Adding Developer Circles (Meta)...
---cern opportunities
+--cern opportunities OpenLab Students
 
-AWS STARTUPS: https://aws.amazon.com/startups/accelerators/build/apply
+- Cisco DevNet: https://developer.cisco.com/
+- AWS STARTUPS: https://aws.amazon.com/startups/accelerators/build/apply
+- IBM Champions: https://developer.ibm.com/champions/
+- TopCoder: https://www.topcoder.com/blog/topcoder-cognitive-community-campus-ambassador/
+- JetBrains Campus Ambassador:
+- 
 OTHER
 NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 
