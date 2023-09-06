@@ -41,7 +41,7 @@ Feel free to explore these ambassador programs and their respective opportunitie
 - IBM Champions: https://developer.ibm.com/champions/
 - TopCoder: https://www.topcoder.com/blog/topcoder-cognitive-community-campus-ambassador/
 - JetBrains Campus Ambassador:
-- 
+- IBM Students Programme: https://yourbigyear.com/ibm-zsystems-ambassador-program
 OTHER
 NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 
