@@ -34,7 +34,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 Feel free to explore these ambassador programs and their respective opportunities!
 
 --Adding Developer Circles (Meta)...
---cern opportunities OpenLab Students
+--cern opportunities OpenLab Students ...
 
 - Cisco DevNet: https://developer.cisco.com/
 - AWS STARTUPS: https://aws.amazon.com/startups/accelerators/build/apply
