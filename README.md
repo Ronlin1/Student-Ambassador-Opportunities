@@ -44,6 +44,8 @@ Feel free to explore these ambassador programs and their respective opportunitie
 - IBM Students Programme: https://yourbigyear.com/ibm-zsystems-ambassador-program
 - Women Techmakers Ambassadors: https://developers.google.com/womentechmakers/ambassadors
 - Build Your Future With Google: https://buildyourfuture.withgoogle.com/
+- HSBC Internships: https://www.hsbc.com/careers/application-hints-and-tips
+- UNICEF Internships: https://www.unicef.org/careers/internships
 OTHER
 NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 
