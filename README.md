@@ -46,6 +46,7 @@ Feel free to explore these ambassador programs and their respective opportunitie
 - Build Your Future With Google: https://buildyourfuture.withgoogle.com/
 - HSBC Internships: https://www.hsbc.com/careers/application-hints-and-tips
 - UNICEF Internships: https://www.unicef.org/careers/internships
+- IEEE Students: https://students.ieee.org/student-opportunities/contests-for-students/
 OTHER
 NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 
