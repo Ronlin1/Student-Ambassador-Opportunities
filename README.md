@@ -50,7 +50,8 @@ Feel free to explore these ambassador programs and their respective opportunitie
 - IEEE Student Branch: https://students.ieee.org/student-branches/form-an-ieee-student-branch/
 - SpaceApps: https://www.spaceappschallenge.org/
 OTHER
-NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
+- NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
+- Your Big Year Opportunities: https://yourbigyear.com/opportunities-page
 
 
 
