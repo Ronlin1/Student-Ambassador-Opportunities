@@ -52,6 +52,25 @@ Feel free to explore these ambassador programs and their respective opportunitie
 OTHER
 - NASA STUDENT COMPETITION: https://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge
 - Your Big Year Opportunities: https://yourbigyear.com/opportunities-page
+- Intuit: https://www.intuit.com/careers/programs/internships/
+- Stanbic Graduate Training Programme: https://www.stanbicbank.co.ug/uganda/personal/about-us/Stanbic-Graduate-Training-Programme
+- Morgan Stanley: https://www.morganstanley.com/people-opportunities/students-graduates
+- TotalEnergies: https://careers.totalenergies.com/en/who-are-we/company-supporting-new-graduates
+- Verizon Internships: https://mycareer.verizon.com/life-at-verizon/students-internships/
+- AT & T Students: https://www.att.jobs/students
+- Student Hub: https://www.studenthub.ug/
+- Colgate Student Opportunities: https://jobs.colgate.com/content/student-opportunities/
+- JP Morgan: https://careers.jpmorgan.com/in/en/students/programs/software-engineer-summer?search=&tags=
+- Adobe Interns: https://careers.adobe.com/us/en/Interns
+- Google Student Opportunities: https://buildyourfuture.withgoogle.com/programs
+- UNDP Interns: https://www.undp.org/careers/types-of-opportunities/internships
+- Unity Careers: https://unity.com/students#start-building-your-future
+- Meta University: https://www.metacareers.com/careerprograms/pathways/metauniversity
+- Blackberry Internship: https://www.blackberry.com/us/en/company/careers/students
+- Coca Cola: https://www.worldofcoca-cola.com/about-us/join-our-team
+- RedBull Student Marketeer: https://jobs.redbull.com/int-en/microsite/student-marketeer
+- JetBrains: https://www.jetbrains.com/careers/jobs/campus-ambassador-eth-zurich-903/
+- 
 
 
 
