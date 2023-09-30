@@ -70,7 +70,112 @@ OTHER
 - Coca Cola: https://www.worldofcoca-cola.com/about-us/join-our-team
 - RedBull Student Marketeer: https://jobs.redbull.com/int-en/microsite/student-marketeer
 - JetBrains: https://www.jetbrains.com/careers/jobs/campus-ambassador-eth-zurich-903/
-- 
+- Alibaba Cloud Students: https://edu.alibabacloud.com/campus/index
+- NVIDIA DLI UNIVERSITY AMBASSADOR PROGRAM: https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/
+- Adobe Express: https://www.adobe.com/express/learn/students
+- Adobe Student Ambassadors: https://adobestudents.influitive.com/users/sign_in
+- Qualcomm: https://www.qualcomm.com/company/corporate-responsibility/empowering-digital-transformation/stem-education
+- Royal Cyber: https://www.royalcyber.com/training/campus-ambassador-program/
+- INNOVIANS TECHNOLOGIES CAMPUS AMBASSADOR PROGRAM : https://innovianstechnologies.com/workshops/campus-ambassador
+- Tableau Campus Rep: https://www.tableau.com/community/community-leaders/ambassadors/apply
+- Sony: https://www.sony.com/content/sony/en/en_us/SCA/company-news/press-releases/sony-electronics/2011/sony-electronics-announces-student-ambassador-program.html
+- AMD: https://careers.amd.com/students
+- Goldman Sachs: https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html
+- Season of KDE: https://season.kde.org/
+- Outreachy: https://www.outreachy.org/
+- The Juniper Ambassador Program: https://community.juniper.net/browse/ambassadors
+- Social Good Hackathon JP: https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
+- The Student of Vision Abie Award: https://anitab.org/awards-grants/abie-awards/student-of-vision/
+- CiSCO ThingBator: https://thingqbator.nasscomfoundation.org/login
+- Moz Fellows Fund: https://foundation.mozilla.org/en/what-we-fund/fellowships/fellowships-faq/
+- The Linux Foundation: https://www.linuxfoundation.org/projects
+- Code Your Own Future: https://www.infosys.com/careers/hackwithinfy.html
+- IBM Call for Code: https://developer.ibm.com/callforcode/
+- Western Union Foundation: https://www.westernunionfoundation.org/
+- kodewithklossy: https://www.kodewithklossy.com/
+- Walmart Students: https://careers.walmart.com/students
+- DeepLearning.AI Event Ambassador: https://docs.google.com/forms/d/e/1FAIpQLSdyztghL5bLnktJLP6YG2GU65E8IEpGR_o937CxEwxdemNcHA/viewform
+- Postman Student Programme: https://www.postman.com/student-program/
+- HacktoberFest: https://hacktoberfest.com/
+- mpg cis students: https://www.cis.mpg.de/internships/
+- PhonePe Tech Scholars Program (Only Girls): https://www.crio.do/phonepe-tech-scholars-program/
+- UiPath Student Dev: https://community.uipath.com/uipath-student-developers-program/
+- Gitkraken Ambassadors: https://www.gitkraken.com/ambassador
+- Dell Campassador: https://docs.google.com/forms/d/e/1FAIpQLSdAs37rAhfN-PFEg9A_bC1PxNP1HLwB2Xe1pkB0rawOF-hd7g/closedform
+- Free Software Foundation: https://www.fsf.org/volunteer/internships
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOR RESEARCH: https://hack-the-opportunities.netlify.app/
+
 
 
 
