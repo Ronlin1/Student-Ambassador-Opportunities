@@ -93,7 +93,6 @@ OTHER
 - IBM Call for Code: https://developer.ibm.com/callforcode/
 - Western Union Foundation: https://www.westernunionfoundation.org/
 - kodewithklossy: https://www.kodewithklossy.com/
-- Walmart Students: https://careers.walmart.com/students
 - DeepLearning.AI Event Ambassador: https://docs.google.com/forms/d/e/1FAIpQLSdyztghL5bLnktJLP6YG2GU65E8IEpGR_o937CxEwxdemNcHA/viewform
 - Postman Student Programme: https://www.postman.com/student-program/
 - HacktoberFest: https://hacktoberfest.com/
@@ -103,9 +102,23 @@ OTHER
 - Gitkraken Ambassadors: https://www.gitkraken.com/ambassador
 - Dell Campassador: https://docs.google.com/forms/d/e/1FAIpQLSdAs37rAhfN-PFEg9A_bC1PxNP1HLwB2Xe1pkB0rawOF-hd7g/closedform
 - Free Software Foundation: https://www.fsf.org/volunteer/internships
+- Ingressive 4 Good Ambassador: https://ingressive.org/join-i4g-network/
 
 
 
+
+### Blockchain
+- XRP Ledger: https://xrpl.org/ambassadors.html
+- Nexo Ambassador: https://nexo.com/ambassadors
+- Kucoin: https://www.kucoin.com/news/kucoin_campus_ambassador_africa
+- YouHodler: https://www.youhodler.com/ambassador
+- Binance: https://academy.binance.com/en/partner/ambassador
+
+### NON-TECH
+- Peace Corps: https://www.peacecorps.gov/volunteer/university-programs/campus-ambassadors/
+- Walmart Students: https://careers.walmart.com/students
+- Global UA : http://undergraduateawards.com/the-ua-network/campus-ambassadors
+- Coca Cola: https://www.campuscommandos.com/about-coca-cola/
 
 
 
