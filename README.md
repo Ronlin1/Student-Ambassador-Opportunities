@@ -103,6 +103,13 @@ OTHER
 - Dell Campassador: https://docs.google.com/forms/d/e/1FAIpQLSdAs37rAhfN-PFEg9A_bC1PxNP1HLwB2Xe1pkB0rawOF-hd7g/closedform
 - Free Software Foundation: https://www.fsf.org/volunteer/internships
 - Ingressive 4 Good Ambassador: https://ingressive.org/join-i4g-network/
+- CERN OpenLab: https://openlab.cern/education/cern-openlab-summer-student-programme
+- Docker: https://www.docker.com/community/leaders/
+- Outsystem Ambassador: https://www.outsystems.com/ambassador-program/
+- Kong Champions: https://konghq.com/community/kong-champions
+- VMware: https://careers.vmware.com/campus-ambassador-program
+- Notion: https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4
+- 
 
 
 
@@ -113,6 +120,23 @@ OTHER
 - Kucoin: https://www.kucoin.com/news/kucoin_campus_ambassador_africa
 - YouHodler: https://www.youhodler.com/ambassador
 - Binance: https://academy.binance.com/en/partner/ambassador
+- Senex Pay: https://senexpay.com/cap
+- 5ire: https://www.5ire.org/ambassador
+- GateIO: https://www.gate.io/uk/blog_detail/1950/gate.io-s-campus-ambassador-programs-offers-onramp-to-the-blockchain-and-crypto-industry
+- BitGet: https://www.bitget.com/support/articles/9554815117081-Become-a-Bitget-Africa-Campus-Ambassador-Today!
+- Blockdegree: https://www.blockdegree.org/campus-ambassador
+- BitGrit: https://bitgrit.net/cap/
+- Yellow Card: https://yellowcard.io/ambassador/
+- Cardano-Ambassador: https://cardano.org/ambassadors/
+- coindcx: https://coindcx.com/blog/community/ambassador-program/
+- Cosmic Crypto | Campus Ambassador: http://intern.cosmiccrypto.in/
+- Alchemy Pay: https://alchemypay.org/global-ambassador-program/
+- Skillsquad: https://www.skillsquad.io/campus-ambassador
+- Unique Network : https://unique.network/ambassador-application/
+- Oasis Foundation: https://forms.clickup.com/24394368/f/q8em0-15844/6CTXPEXFYT69D6G6MB
+- Cudos: https://docs.google.com/forms/d/e/1FAIpQLSeBahrtH88L04ZQ_B4HGMiKmHxa_2i_20zEtM5K8B7IAU_sMA/viewform?edit_requested=true
+- Ankr Ambassador: https://4f4a8balgjw.typeform.com/ambassador
+- Mail3.eth: https://mirror.xyz/mail3.eth/_49_BHqiRI-WTG1OxCu6FbhglepLkFX_tba_vrXN4pI
 
 ### NON-TECH
 - Peace Corps: https://www.peacecorps.gov/volunteer/university-programs/campus-ambassadors/
