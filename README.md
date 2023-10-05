@@ -109,7 +109,7 @@ OTHER
 - Kong Champions: https://konghq.com/community/kong-champions
 - VMware: https://careers.vmware.com/campus-ambassador-program
 - Notion: https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4
-- DS
+- kaspersky CyberMate: https://cybermates.kaspersky.com/application
 - AI
 
 
@@ -138,6 +138,10 @@ OTHER
 - Cudos: https://docs.google.com/forms/d/e/1FAIpQLSeBahrtH88L04ZQ_B4HGMiKmHxa_2i_20zEtM5K8B7IAU_sMA/viewform?edit_requested=true
 - Ankr Ambassador: https://4f4a8balgjw.typeform.com/ambassador
 - Mail3.eth: https://mirror.xyz/mail3.eth/_49_BHqiRI-WTG1OxCu6FbhglepLkFX_tba_vrXN4pI
+- Celo University Guild: https://celoecosystem.com/university
+- Alchemy Ambassador: https://www.alchemy.com/ambassadors
+- Polkadot Ambassador Program: https://info.polkadot.network/ambassador-application?ref=cms.polkadot.network
+- SYDTEK Student Ambassador: https://sydtek.ai/
 
 ### NON-TECH
 - Peace Corps: https://www.peacecorps.gov/volunteer/university-programs/campus-ambassadors/
