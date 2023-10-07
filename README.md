@@ -110,7 +110,13 @@ OTHER
 - VMware: https://careers.vmware.com/campus-ambassador-program
 - Notion: https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4
 - kaspersky CyberMate: https://cybermates.kaspersky.com/application
-- AI
+- Lightening AI: https://lightning.ai/ambassador-program/
+- Zaka AI: https://zaka.ai/ambassadors/
+- INeuron Ambassador: https://csp.ineuron.ai/student
+- Esai: Student Affiliates: https://esai.ai/pages/es-ai-student-affiliate-program
+- Inspirit AI: https://inspiritai.paperform.co/
+- Tesla Interns: https://www.tesla.com/careers/internships
+- 
 
 
 
