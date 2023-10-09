@@ -118,6 +118,8 @@ OTHER
 - Tesla Interns: https://www.tesla.com/careers/internships
 - Oppo Product Ambassador: https://www.oppo.com/en/events/oppo-product-ambassadors/
 - IEEE Computer Society: https://www.computer.org/communities/professional-chapters/start-a-chapter
+- MLH Fellowship: https://www.tfaforms.com/4956119?tfa_6094=google&tfa_6095=website&tfa_6099=fellowship-hackers-fall_2023_announcement_blog_post_mlh_fellowship_mention
+- 
 
 
 
