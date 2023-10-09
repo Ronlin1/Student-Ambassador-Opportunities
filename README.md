@@ -119,7 +119,9 @@ OTHER
 - Oppo Product Ambassador: https://www.oppo.com/en/events/oppo-product-ambassadors/
 - IEEE Computer Society: https://www.computer.org/communities/professional-chapters/start-a-chapter
 - MLH Fellowship: https://www.tfaforms.com/4956119?tfa_6094=google&tfa_6095=website&tfa_6099=fellowship-hackers-fall_2023_announcement_blog_post_mlh_fellowship_mention
-- 
+- MLH PizaFund: https://hackp.ac/pizzafund-apply
+- Digital Ocean Navigator: https://www.digitalocean.com/community/pages/digitalocean-navigators
+- READ: https://aaishika.medium.com/why-you-should-sign-up-for-a-campus-ambassador-program-today-54224340d64f
 
 
 
