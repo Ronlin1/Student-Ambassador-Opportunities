@@ -121,6 +121,10 @@ OTHER
 - MLH Fellowship: https://www.tfaforms.com/4956119?tfa_6094=google&tfa_6095=website&tfa_6099=fellowship-hackers-fall_2023_announcement_blog_post_mlh_fellowship_mention
 - MLH PizaFund: https://hackp.ac/pizzafund-apply
 - Digital Ocean Navigator: https://www.digitalocean.com/community/pages/digitalocean-navigators
+- Incubate Hub: https://incubatehub.com/campus-ambassador
+- AWS Cloud Club: https://aws.amazon.com/developer/community/students/
+- Pearson Students Research Program: https://www.pearson.com/en-gb/higher-education/students/get-involved.html
+- Roblox Mail: devrel-uni@roblox.com
 - READ: https://aaishika.medium.com/why-you-should-sign-up-for-a-campus-ambassador-program-today-54224340d64f
 
 
