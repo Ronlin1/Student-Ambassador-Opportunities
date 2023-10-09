@@ -116,7 +116,8 @@ OTHER
 - Esai: Student Affiliates: https://esai.ai/pages/es-ai-student-affiliate-program
 - Inspirit AI: https://inspiritai.paperform.co/
 - Tesla Interns: https://www.tesla.com/careers/internships
-- 
+- Oppo Product Ambassador: https://www.oppo.com/en/events/oppo-product-ambassadors/
+- IEEE Computer Society: https://www.computer.org/communities/professional-chapters/start-a-chapter
 
 
 
