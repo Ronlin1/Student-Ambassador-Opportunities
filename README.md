@@ -165,6 +165,8 @@ OTHER
 - Walmart Students: https://careers.walmart.com/students
 - Global UA : http://undergraduateawards.com/the-ua-network/campus-ambassadors
 - Coca Cola: https://www.campuscommandos.com/about-coca-cola/
+- Awa Enabel Prize: https://stories.enabel.be/awa-prize/
+- 
 
 
 
