@@ -160,6 +160,7 @@ OTHER
 - Alchemy Ambassador: https://www.alchemy.com/ambassadors
 - Polkadot Ambassador Program: https://info.polkadot.network/ambassador-application?ref=cms.polkadot.network
 - SYDTEK Student Ambassador: https://sydtek.ai/
+- Aya Amassador: https://cultured-fire-1d0.notion.site/Aya-Ambassadorship-Program-241c08ca24ef4d1a9a247b1b4e350632
 
 ### NON-TECH
 - Peace Corps: https://www.peacecorps.gov/volunteer/university-programs/campus-ambassadors/
