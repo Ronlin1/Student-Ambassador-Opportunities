@@ -128,6 +128,7 @@ OTHER
 - Intel OneAPI Ambassador: https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/academic-program/student-ambassador.html#gs.67dll5
 - Roblox Mail: devrel-uni@roblox.com
 - CodeChef : https://www.codechef.com/collegechapter
+- Student Energy : https://studentenergy.org/program/fellowship/
 - READ: https://aaishika.medium.com/why-you-should-sign-up-for-a-campus-ambassador-program-today-54224340d64f
 
 
