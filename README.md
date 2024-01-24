@@ -169,6 +169,13 @@ OTHER
 - Global UA : http://undergraduateawards.com/the-ua-network/campus-ambassadors
 - Coca Cola: https://www.campuscommandos.com/about-coca-cola/
 - Awa Enabel Prize: https://stories.enabel.be/awa-prize/
+- Adidas https://www.tfaforms.com/5065108?tfa_2074=%20%20...
+- Fisu https://www.fisu.net/programmes/healthy-campus/
+- https://www.studysunshinecoast.com.au/program/ambassador-program/
+- 
+- sunshine https://www.studysunshinecoast.com.au/program/ambassador-program/
+- technovation girls https://technovationchallenge.org/ambassadors/
+- adhsn https://docs.google.com/forms/d/1crn8i6DXHQ5UZ3f2PVcFqw6ky0xMyvYU-p9p7Fiu51Y/viewform?fbclid=IwAR2-aJR8x3ceB2BSlwpL9l5EtfKBhpoCiKS6j0XFfQh_X0We3Tn-TL-klI0&edit_requested=true
 - 
 
 
