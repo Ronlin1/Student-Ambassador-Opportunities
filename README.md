@@ -176,9 +176,16 @@ OTHER
 - sunshine https://www.studysunshinecoast.com.au/program/ambassador-program/
 - technovation girls https://technovationchallenge.org/ambassadors/
 - adhsn https://docs.google.com/forms/d/1crn8i6DXHQ5UZ3f2PVcFqw6ky0xMyvYU-p9p7Fiu51Y/viewform?fbclid=IwAR2-aJR8x3ceB2BSlwpL9l5EtfKBhpoCiKS6j0XFfQh_X0We3Tn-TL-klI0&edit_requested=true
+- Tech Variable https://techvariable.com/campus-ambassador/
+- Innovians 
+https://innovianstechnologies.com/workshops/campus-ambassador/apply
+
+- mlh fellowship https://fellowship.mlh.io/
+- Geeks 4 Geeks https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/
+- Coding Ninja https://campus.codingninjas.com/?_ga=2.208577746.1326113032.1668590591-309086747.1668590591
+- Binance EA Ambassador https://www.binance.com/en-NG/blog/all/become-a-binance-east-africa-campus-ambassadors-today-421499824684904040?ref=BWAC&utm_source=binance-africa&utm_medium=ba-blog&utm_campaign=join-binance-wa-ambassador-program
+- mytechdev https://www.mytechdev.org/ambassadorapply.html
 - 
-
-
 
 
 
