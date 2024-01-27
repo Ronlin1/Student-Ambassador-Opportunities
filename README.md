@@ -40,7 +40,7 @@ Feel free to explore these ambassador programs and their respective opportunitie
 - AWS STARTUPS: https://aws.amazon.com/startups/accelerators/build/apply
 - IBM Champions: https://developer.ibm.com/champions/
 - TopCoder: https://www.topcoder.com/blog/topcoder-cognitive-community-campus-ambassador/
-- JetBrains Campus Ambassador:
+- JetBrains Campus Ambassador: https://www.jetbrains.com/education/university-relations/
 - IBM Students Programme: https://yourbigyear.com/ibm-zsystems-ambassador-program
 - Women Techmakers Ambassadors: https://developers.google.com/womentechmakers/ambassadors
 - Build Your Future With Google: https://buildyourfuture.withgoogle.com/
