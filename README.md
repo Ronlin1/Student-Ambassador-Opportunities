@@ -185,7 +185,7 @@ https://innovianstechnologies.com/workshops/campus-ambassador/apply
 - Coding Ninja https://campus.codingninjas.com/?_ga=2.208577746.1326113032.1668590591-309086747.1668590591
 - Binance EA Ambassador https://www.binance.com/en-NG/blog/all/become-a-binance-east-africa-campus-ambassadors-today-421499824684904040?ref=BWAC&utm_source=binance-africa&utm_medium=ba-blog&utm_campaign=join-binance-wa-ambassador-program
 - mytechdev https://www.mytechdev.org/ambassadorapply.html
-- 
+- Stonemaier Games Ambassador: https://stonemaiergames.com/about/ambassador-program/
 
 
 
