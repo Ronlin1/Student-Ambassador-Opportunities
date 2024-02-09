@@ -186,6 +186,7 @@ https://innovianstechnologies.com/workshops/campus-ambassador/apply
 - Binance EA Ambassador https://www.binance.com/en-NG/blog/all/become-a-binance-east-africa-campus-ambassadors-today-421499824684904040?ref=BWAC&utm_source=binance-africa&utm_medium=ba-blog&utm_campaign=join-binance-wa-ambassador-program
 - mytechdev https://www.mytechdev.org/ambassadorapply.html
 - Stonemaier Games Ambassador: https://stonemaiergames.com/about/ambassador-program/
+- WSA YOUNG INNOVATORS - https://wsa-global.org/wsa_categories/wsa-young-innovators/
 
 
 
