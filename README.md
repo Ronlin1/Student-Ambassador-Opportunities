@@ -130,6 +130,9 @@ OTHER
 - CodeChef : https://www.codechef.com/collegechapter
 - Student Energy : https://studentenergy.org/program/fellowship/
 - READ: https://aaishika.medium.com/why-you-should-sign-up-for-a-campus-ambassador-program-today-54224340d64f
+- World Bank - https://treasury.worldbank.org/en/about/unit/treasury/about/student-and-graduate-careers
+- Morgan Stanley -  https://www.morganstanley.com/careers/career-opportunities-search#
+- 
 
 
 
