@@ -132,6 +132,8 @@ OTHER
 - READ: https://aaishika.medium.com/why-you-should-sign-up-for-a-campus-ambassador-program-today-54224340d64f
 - World Bank - https://treasury.worldbank.org/en/about/unit/treasury/about/student-and-graduate-careers
 - Morgan Stanley -  https://www.morganstanley.com/careers/career-opportunities-search#
+- Students Affairs Certification - https://studentaffairscertification.org/get-certified/how-to-apply
+- Engineering World Health - https://ewh.org/chapters/start-or-renew-a-chapter/
 - 
 
 
