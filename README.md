@@ -30,6 +30,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 - [TECH GIG](https://www.techgig.com/campus-ambassador)
 - [UNIVERSITY FELLOWS](http://universityinnovationfellows.org/about-us/program/)
 - [WOLFRAM](https://www.wolfram.com/company/careers/ambassador/)
+-
 
 Feel free to explore these ambassador programs and their respective opportunities!
 
@@ -134,7 +135,43 @@ OTHER
 - Morgan Stanley -  https://www.morganstanley.com/careers/career-opportunities-search#
 - Students Affairs Certification - https://studentaffairscertification.org/get-certified/how-to-apply
 - Engineering World Health - https://ewh.org/chapters/start-or-renew-a-chapter/
+- Undergraduate Awards Campus Ambassador - https://undergraduateawards.com/the-ua-network/campus-ambassadors
+- DevTown CAMPUS AMBASSADOR - https://www.devtown.in/devtown-campus-ambassador
+- CodSoft Campus Ambassador - https://www.codsoft.in/campus-ambassador
+- Pearson Campus Ambassador - https://t.ly/xEwA0
+- FACIA Campus Ambassador - https://facia.ai/campus-ambassador-programme/
+- CIEE Campus Ambassador - https://t.ly/NInbe
+- Student Circus - https://studentcircus.com/campus-ambassadors
+- TribeVibe - https://tribevibe.live/campus-ambassador.php
+- PayTM - https://paytm.com/campus
+- Max Campus Brand Manager - https://nextgen.teamwass.com/max-campus-brand-manager-program/
+- Hyderabad Arbitration Centre Ambassador - https://hac.org.in/student-campus-ambassador-form/
+- APA Campus Ambassador - https://www.apa.org/members/your-membership/benefits/campus-ambassador
+- Tulsa Campus Ambassador - https://tulsahighered.com/campus-ambassador-program/
+- ISCEA CAMPUS AMBASSADOR - https://www.iscea.org/campus-ambassador-membership-form
+- realme Ambassador - https://event.realme.com/in/realme-campus-ambassador
+- Vida CAMPUS AMBASSADOR - https://www.vidavolunteer.org/become-a-campus-ambassador/
+- The Operation Water Campus Ambassador - https://t.ly/B1GS-
+- CISCO Community Ambassador - https://t.ly/xVsPV
+- GAIN Campus Ambassador - https://grandafrica.org/frontend/page/campus_ambassador_form/
+- Project Life - Campus Ambassador- https://t.ly/Vt9-R
+- Edumpus - https://edumpus.com/campusAmbassador
+- Her Campus - https://cutt.ly/KwVB1bOZ
+- SkillsDA Campus Ambassador - https://cutt.ly/4wVB3FiR
+- Coding Elements - https://cutt.ly/GwVB5Svr
+- Wikipedia:Education - http://tinyurl.com/37fuywvv
+- NISM - https://estore.nism.ac.in/nism-campus-ambassador/
+- lEADERSHIP iNSTITUTE - https://www.leadershipinstitute.org/campus/ambassador/
+- AICL - https://aicl.training/campambass
+- iNeuBytes -https://ineubytes.com/campus-ambassador
+- Emertxe Ambassador - https://www.emertxe.com/internships/campus-ambassador-program/
+- ONLYOFFICE AMBASSADOR - http://tinyurl.com/yremhuhw
+- Hult Prize - https://www.hultprize.org/apply-now/
+- The Ambassador Platform - https://www.theambassadorplatform.com/
+- Planetary Health Campus Ambassador - https://www.planetaryhealthalliance.org/phca
 - 
+
+
 
 
 
