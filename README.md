@@ -171,7 +171,10 @@ OTHER
 - Planetary Health Campus Ambassador - https://www.planetaryhealthalliance.org/phca
 - TWAS AWARDS - https://twas.org/opportunity/twas-awards
 - Cisco Learning Network Community Ambassador - http://tinyurl.com/mrzvzjpe
-- Headway Institute - https://headwayinstitute.org/ 
+- Headway Institute - https://headwayinstitute.org/
+- Swift Student Challenge - https://developer.apple.com/swift-student-challenge/
+- Student Service Design Challenge - https://servicedesignchallenge.com/
+- 
 
 
 
