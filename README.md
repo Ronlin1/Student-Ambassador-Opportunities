@@ -30,7 +30,7 @@ This repo houses all current Student opportunities: Feel free to contribute so t
 - [TECH GIG](https://www.techgig.com/campus-ambassador)
 - [UNIVERSITY FELLOWS](http://universityinnovationfellows.org/about-us/program/)
 - [WOLFRAM](https://www.wolfram.com/company/careers/ambassador/)
--
+- Seeds for the Future Global Ambassador Program Huawei
 
 Feel free to explore these ambassador programs and their respective opportunities!
 
